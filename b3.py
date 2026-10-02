@@ -4,7 +4,7 @@ import base64
 import re
 import uuid
 from bs4 import BeautifulSoup
-
+ # by telegran @diwazz
 session = requests.Session()
 
 headers_1 = {
